@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package>
+  <name>roch_concert</name>
+  <version>0.0.1</version>
+  <description>Concert package for Roch</description>
+
+  <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
+
+
+  <license>BSD</license>
+
+
+  <url type="website">http://wiki.ros.org/roch_concert</url> 
+  <url type="repository">http://github.com/SawYer-Robotics/roch_concert</url>
+  <url type="bugtracker">http://github.com/SawYer-Robotics/roch_concert/issues</url>
+
+  <author email="wzhang@softrobtech.com">Carl</author> 
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>concert_master</run_depend>
+  <run_depend>concert_service_admin</run_depend>
+  <run_depend>concert_service_teleop</run_depend>
+  <run_depend>concert_service_indoor_2d_map_prep</run_depend>
+
+  <export>
+
+  </export>
+</package>
