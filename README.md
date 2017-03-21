@@ -3,7 +3,7 @@
 Concert for multi Roch usecases.
 
 ## Configuration 
-----------------
+
 We assume you have two machine, a concert PC and a laptop of Roch.
 
 ### Conert PC
@@ -28,7 +28,7 @@ Bringup concert PC ```concert.launch```
 roslaunch roch_concert concert.launch
 ```
 
-Start concert client Roch with ```concert_client_old.launch```
+Start concert client Roch with ```concert_client.launch```
 ```
-roslaunch roch_bringup concert_client_old.launch
+roslaunch roch_bringup concert_client.launch
 ```
