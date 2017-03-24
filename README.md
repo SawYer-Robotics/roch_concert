@@ -6,6 +6,12 @@ Concert for multi Roch usecases.
 
 We assume you have two machine, a concert PC and a laptop of Roch.
 
+Ensure you have finished configuration with ```GATEWAY_NETWORK_INTERFACE```, if not using following command:
+
+```
+export GATEWAY_NETWORK_INTERFACE=waln0 #make sure concert and laptop in same gateway, [waln0, eth0]
+```
+
 ### Conert PC
 
 ```
