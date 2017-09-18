@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>roch_concert</name>
-  <version>0.0.1</version>
+  <version>1.0.1</version>
   <description>Concert package for Roch</description>
 
   <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
