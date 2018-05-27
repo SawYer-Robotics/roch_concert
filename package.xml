@@ -4,7 +4,7 @@
   <version>0.0.1</version>
   <description>Concert package for Roch</description>
 
-  <maintainer email="carlzhang@soyrobotics.com">Carl</maintainer>
+  <maintainer email="gchen@soyrobotics.com">Chen</maintainer>
 
 
   <license>BSD</license>
@@ -14,7 +14,7 @@
   <url type="repository">http://github.com/Soy-Robotics/roch_concert</url>
   <url type="bugtracker">http://github.com/Soy-Robotics/roch_concert/issues</url>
 
-  <author email="carlzhang@soyrobotics.com">Carl</author> 
+  <author email="gchen@soyrobotics.com">Chen</author> 
 
   <buildtool_depend>catkin</buildtool_depend>
 
